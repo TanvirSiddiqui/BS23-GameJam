@@ -1,1 +1,1 @@
-# BS23-GameJam
+# Only Script files.
